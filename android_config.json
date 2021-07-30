@@ -1,16 +1,17 @@
 {
-  "version": "1.7.4",
+  "version": "1.8.1",
   "update": {
-    "version": "1.7",
+    "version": "1.8",
     "message": ""
   },
+  "review": 0,
   "swipes": [
     {
-      "title": "追虎擒龙",
-      "img": "http://n.sinaimg.cn/sinakd2021416s/501/w2048h853/20210416/b219-knvsnuf6468814.jpg",
-      "href": "https://www.nunuyy.cc/dianying/86999.html",
-      "rate": "5.2",
-      "note": "超清"
+      "title": "人之怒",
+      "img": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0429%2F67e31a14j00qsb42x00l8c001ua00zcg.jpg&thumbnail=650x2147483647&quality=80&type=jpg",
+      "href": "https://www.nunuyy.cc/dianying/87713.html",
+      "rate": "7",
+      "note": "HD"
     },
     {
       "title": "黑寡妇",
@@ -20,11 +21,11 @@
       "note": "HD中字"
     },
     {
-      "title": "唐人街探案3",
-      "img": "http://qqpublic.qpic.cn/qq_public/0/0-2868774314-90EEB45C90196BAB3F65BF36F30AFBB7/0?fmt=jpg&size=137&h=556&w=700&ppv=1/0",
-      "href": "https://www.nunuyy.cc/dianying/46238.html",
-      "rate": "5.4",
-      "note": "HD超清"
+      "title": "悬崖之上",
+      "img": "http://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0501%2F07fb3f3aj00qseuzm0041c0014i00hcc.jpg&thumbnail=650x2147483647&quality=80&type=jpg",
+      "href": "https://www.nunuyy.cc/dianying/71020.html",
+      "rate": "7.6",
+      "note": "HD"
     },
     {
       "title": "复仇者联盟4：终局之战",
@@ -65,9 +66,9 @@
     }
   ],
   "drawer": {
-    "txt": "死亡不是生命的终点，遗忘才是。",
-    "author": "《寻梦环游记》",
-    "bg": "https://5b0988e595225.cdn.sohucs.com/images/20171211/5179c650c06947298a5ab743cf3860aa.jpeg"
+    "txt": "若命运不公，就和它斗到底。",
+    "author": "《哪吒之魔童降世》",
+    "bg": "http://qqpublic.qpic.cn/qq_public/0/0-2479699267-7081A0293FC4E20F82CFD180A5E70A83/0?fmt=jpg&size=33&h=360&w=640&ppv=1.jpg"
   },
   "drawer_theater": {
     "txt": "草原春色青袅袅，慧黠湄若翩跹归。",
@@ -95,7 +96,10 @@
     ],
     "button": "我知道了"
   },
-  "filter_films": [],
+  "filter_films": [
+    "金瓶梅"
+  ],
+  "buffering_timeout" : 45,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
   "search_hint_text_theater": "搜索电视剧、综艺、动漫",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请观看其它影片或者稍后重试",
