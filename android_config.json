@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "update": {
     "version": "2.0",
     "message": ""
@@ -133,7 +133,7 @@
   ],
   "buffering_timeout": 30,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
-  "search_hint_text_theater": "搜索电影、电视剧、综艺、动漫",
+  "search_hint_text_theater": "搜索电视剧、综艺、动漫",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请切换源或者观看其它影片或者稍后重试",
   "playing_error_hint": "抱歉，播放源片段出现错误，请重试后拖出此片段观看或者稍后重试",
   "play_no_source_hint_theater": "抱歉，该###暂无播放源，请观看其它###或者稍后重试",
