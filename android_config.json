@@ -1,5 +1,5 @@
 {
-  "version": "2.1.9",
+  "version": "2.1.9.1",
   "update": {
     "version": "2.0",
     "message": ""
@@ -220,7 +220,7 @@
     "深喉",
     "满清"
   ],
-  "buffering_timeout": 30,
+  "buffering_timeout": 20,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
   "search_hint_text_theater": "搜索电影、电视剧、综艺、动漫",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请切换源或者观看其它影片或者稍后重试",
