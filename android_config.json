@@ -1,5 +1,5 @@
 {
-  "version": "2.1.4",
+  "version": "2.1.6",
   "update": {
     "version": "2.0",
     "message": ""
@@ -213,7 +213,9 @@
     "刺青",
     "卿本",
     "佳人",
-    "金瓶"
+    "金瓶",
+    "恨锁金瓶",
+    "新金瓶梅"
   ],
   "buffering_timeout": 30,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
