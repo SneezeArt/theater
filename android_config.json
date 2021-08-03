@@ -1,5 +1,5 @@
 {
-  "version": "2.1.9.1",
+  "version": "2.1.9.2",
   "update": {
     "version": "2.0",
     "message": ""
@@ -218,7 +218,8 @@
     "新金瓶梅",
     "丝袜",
     "深喉",
-    "满清"
+    "满清",
+    "堕落"
   ],
   "buffering_timeout": 20,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
