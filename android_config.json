@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "update": {
     "version": "2.0",
     "message": ""
@@ -212,7 +212,8 @@
     "低俗青春",
     "刺青",
     "卿本",
-    "佳人"
+    "佳人",
+    "金瓶"
   ],
   "buffering_timeout": 30,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
