@@ -1,5 +1,5 @@
 {
-  "version": "2.1.7",
+  "version": "2.1.8",
   "update": {
     "version": "2.0",
     "message": ""
@@ -216,7 +216,8 @@
     "金瓶",
     "恨锁金瓶",
     "新金瓶梅",
-    "丝袜"
+    "丝袜",
+    "深喉"
   ],
   "buffering_timeout": 30,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
