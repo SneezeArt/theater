@@ -1,10 +1,10 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "update": {
     "version": "2.0",
     "message": ""
   },
-  "review": 1,
+  "review": 0,
   "swipes": [
     {
       "title": "人之怒",
