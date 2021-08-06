@@ -1,5 +1,5 @@
 {
-  "version": "2.5.2",
+  "version": "2.5.3",
   "update": {
     "version": "2.5",
     "message": ""
@@ -96,7 +96,7 @@
     ],
     "button": "我知道了"
   },
-  "filter_films_enable" : 1,
+  "filter_films_enable": 1,
   "filter_films": [
     "金瓶梅",
     "强奸",
@@ -220,12 +220,6 @@
     "深喉",
     "满清",
     "堕落",
-    "不雅医院",
-    "情事",
-    "淫亵",
-    "女朋友",
-    "成人版",
-    "女生宿舍",
     "小姨子的姐妹",
     "公公的",
     "淫",
@@ -258,7 +252,9 @@
     "姐夫",
     "母亲"
   ],
-  "excluded_filter_films": ["速度与激情"],
+  "excluded_filter_films": [
+    "速度与激情"
+  ],
   "buffering_timeout": 20,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
   "search_hint_text_theater": "搜索电影、电视剧、综艺、动漫",
