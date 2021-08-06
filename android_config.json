@@ -1,7 +1,7 @@
 {
-  "version": "2.4.3",
+  "version": "2.5.1",
   "update": {
-    "version": "2.4",
+    "version": "2.5",
     "message": ""
   },
   "review": 0,
@@ -98,7 +98,6 @@
   },
   "filter_films_enable" : 1,
   "filter_films": [
-    "激情",
     "金瓶梅",
     "强奸",
     "性",
@@ -167,6 +166,7 @@
     "爱实录",
     "妻子",
     "变态",
+    "激情",
     "女职员",
     "床上关系",
     "迈阿密暗杀档案",
@@ -221,6 +221,7 @@
     "满清",
     "堕落"
   ],
+  "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
   "search_hint_text_theater": "搜索电影、电视剧、综艺、动漫",
