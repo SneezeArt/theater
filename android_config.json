@@ -1,5 +1,5 @@
 {
-  "version": "2.4.2",
+  "version": "2.4.3",
   "update": {
     "version": "2.4",
     "message": ""
@@ -98,6 +98,7 @@
   },
   "filter_films_enable" : 1,
   "filter_films": [
+    "激情",
     "金瓶梅",
     "强奸",
     "性",
