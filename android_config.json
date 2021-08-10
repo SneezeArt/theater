@@ -1,5 +1,5 @@
 {
-  "version": "2.6.1",
+  "version": "2.6.2",
   "update": {
     "version": "2.6",
     "message": ""
@@ -219,7 +219,10 @@
     "丝袜",
     "深喉",
     "满清",
-    "堕落"
+    "堕落",
+    "淫",
+    "女朋友",
+    "妈妈"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
