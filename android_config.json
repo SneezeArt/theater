@@ -1,5 +1,5 @@
 {
-  "version": "2.6.2",
+  "version": "2.6.3",
   "update": {
     "version": "2.6",
     "message": ""
@@ -222,7 +222,8 @@
     "堕落",
     "淫",
     "女朋友",
-    "妈妈"
+    "妈妈",
+    "黑帮大佬和我的365"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
