@@ -1,5 +1,5 @@
 {
-  "version": "2.6.3",
+  "version": "2.6.4",
   "update": {
     "version": "2.6",
     "message": ""
@@ -223,7 +223,8 @@
     "淫",
     "女朋友",
     "妈妈",
-    "黑帮大佬和我的365"
+    "黑帮大佬和我的365",
+    "人肉叉烧包"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
