@@ -1,5 +1,5 @@
 {
-  "version": "2.6.5",
+  "version": "2.6.6",
   "update": {
     "version": "2.6",
     "message": ""
@@ -226,7 +226,8 @@
     "黑帮大佬和我的365",
     "人肉叉烧包",
     "有希望的男人",
-    "九歌"
+    "九歌",
+    "魔鬼天使"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
