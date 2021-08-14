@@ -1,17 +1,18 @@
 {
-  "version": "2.6.6",
+  "version": "2.8.1",
   "update": {
-    "version": "2.6",
+    "version": "2.8",
     "message": ""
   },
+  "appId": "",
   "review": 0,
   "swipes": [
     {
-      "title": "南海十三郎",
-      "img": "https://cdn.eventfinda.sg/uploads/events/transformed/15582-3142-34.jpg",
-      "href": "https://www.nunuyy.cc/dianying/56540.html",
-      "rate": "9.2",
-      "note": "1080P"
+      "title": "让子弹飞",
+      "img": "http://static.ws.126.net/ent/2011/11/24/20111124200642e9901.jpg",
+      "href": "https://www.nunuyy.cc/dianying/10355.html",
+      "rate": "8.8",
+      "note": "HD"
     },
     {
       "title": "逃出亚卡拉",
@@ -83,12 +84,8 @@
         "content": "本App所有资源"
       },
       {
-        "content": "来源于第三方搜索引擎，天天电影无权增加、修改、删除任何信息，并且不对影片播放的可靠性负责。\n\n",
+        "content": "来源于第三方搜索引擎，天天电影无权增加、修改、删除任何信息。\n\n",
         "highlight": "1"
-      },
-      {
-        "content": "影片中出现的任何广告都属于第三方资源提供方设置及制作，并且可能存在虚假或不良信息，请不要相信，以免上当受骗。\n\n",
-        "highlight": "0"
       },
       {
         "content": "本App是基于第三方公开接口的搜索引擎展示，所有展示内容皆是搜索引擎检索结果。\n\n本App以非人工检索方式，根据用户键入或选择的关键字自动发送至第三方网站查询检索，任何通过使用本App展示和搜索的资源均系他人制作或提供，所有视频及图片版权均归原作者及网站所有，本应用不存储、不制作、不上传。\n\n本App没有数据服务器，仅有用于应用更新检查的静态空间。\n\n若本App无意侵犯了您的权利，请留言，我们会及时处理和回复。\n\n本App仅为学习与测试之用，日常请使用正版视频软件，支持正版人人有责。"
