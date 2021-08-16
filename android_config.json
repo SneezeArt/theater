@@ -1,5 +1,5 @@
 {
-  "version": "2.8.1",
+  "version": "2.8.3",
   "update": {
     "version": "2.8",
     "message": ""
@@ -224,7 +224,8 @@
     "人肉叉烧包",
     "有希望的男人",
     "九歌",
-    "魔鬼天使"
+    "魔鬼天使",
+    "卿狂"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
