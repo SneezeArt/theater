@@ -1,5 +1,5 @@
 {
-  "version": "2.8.5",
+  "version": "2.8.6",
   "update": {
     "version": "2.8",
     "message": ""
@@ -38,32 +38,24 @@
   ],
   "swipes_theater": [
     {
-      "title": "庆余年 第一季",
-      "img": "http://inews.gtimg.com/newsapp_bt/0/11009746250/1000.jpg",
-      "href": "https://www.nunuyy.cc/dianshiju/51386.html",
-      "rate": "8",
-      "note": "46集全/已完结"
+      "title": "社交网络",
+      "img": "https://p2.pstatp.com/origin/ff5e000148ef31e7e3e6.jpg",
+      "href": "https://www.nunuyy.cc/dianying/19973.html"
     },
     {
       "title": "巾帼枭雄[粤语版]",
       "img": "http://pix1.tvzhe.com/stills/drama/2/464/b/LR0tW7OlM=.jpg",
-      "href": "https://www.nunuyy.cc/dianshiju/75921.html",
-      "rate": "8.7",
-      "note": "25集全"
+      "href": "https://www.nunuyy.cc/dianshiju/75921.html"
     },
     {
-      "title": "Running Man 런닝맨 (2021)",
-      "img": "https://p2.pstatp.com/origin/feb40001000fff84931f.jpg",
-      "href": "https://www.nunuyy.cc/zongyi/4650.html",
-      "rate": "9.6",
-      "note": "更新至20210718期"
+      "title": "脱口秀大会 第四季",
+      "img": "https://pic.rmb.bdstatic.com/bjh/e482cfd50060a5612ac999defa8f5a19.jpeg",
+      "href": "https://www.nunuyy.cc/zongyi/90191.html"
     },
     {
-      "title": "斗罗大陆 (2018)",
-      "img": "https://p2.pstatp.com/origin/fe6600014054fee7cba4.jpg",
-      "href": "https://www.nunuyy.cc/dongman/4003.html",
-      "rate": "7.6",
-      "note": "更新157集"
+      "title": "开心超人联盟之机械堡奇遇记",
+      "img": "https://pic.rmb.bdstatic.com/bjh/e41afcc3896be7e50e30f910ce51df46.jpeg",
+      "href": "https://www.nunuyy.cc/dongman/90137.html"
     }
   ],
   "drawer": {
