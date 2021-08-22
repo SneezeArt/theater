@@ -1,5 +1,5 @@
 {
-  "version": "2.8.8",
+  "version": "2.8.8.1",
   "update": {
     "version": "2.8",
     "message": ""
@@ -219,7 +219,8 @@
     "魔鬼天使",
     "卿狂",
     "危情",
-    "周末同床"
+    "周末同床",
+    "豪放"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
