@@ -1,5 +1,5 @@
 {
-  "version": "3.1.2",
+  "version": "3.1.3",
   "update": {
     "version": "3.1",
     "message": ""
@@ -221,7 +221,8 @@
     "危情",
     "周末同床",
     "豪放",
-    "情欲"
+    "情欲",
+    "奸情"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
