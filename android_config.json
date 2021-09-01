@@ -1,7 +1,7 @@
 {
-  "version": "3.1.3",
+  "version": "3.4.3",
   "update": {
-    "version": "3.1",
+    "version": "3.4",
     "message": ""
   },
   "appId": "",
@@ -222,7 +222,8 @@
     "周末同床",
     "豪放",
     "情欲",
-    "奸情"
+    "奸情",
+    "小姨子"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
