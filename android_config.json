@@ -1,5 +1,5 @@
 {
-  "version": "3.4.6",
+  "version": "3.4.7",
   "update": {
     "version": "3.4",
     "message": ""
@@ -227,7 +227,8 @@
     "黑天使",
     "珍品",
     "强我",
-    "疯情"
+    "疯情",
+    "灵与欲"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
