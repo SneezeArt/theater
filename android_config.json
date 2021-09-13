@@ -1,5 +1,5 @@
 {
-  "version": "3.7.3",
+  "version": "3.7.4",
   "update": {
     "version": "3.7",
     "message": ""
@@ -230,7 +230,8 @@
     "疯情",
     "灵与欲",
     "上位",
-    "青楼"
+    "青楼",
+    "囡囡"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
