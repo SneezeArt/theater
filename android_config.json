@@ -1,7 +1,7 @@
 {
-  "version": "3.7.4",
+  "version": "3.8.1",
   "update": {
-    "version": "3.7",
+    "version": "3.8",
     "message": ""
   },
   "appId": "",
@@ -38,24 +38,32 @@
   ],
   "swipes_theater": [
     {
-      "title": "社交网络",
-      "img": "https://mmbiz.qpic.cn/mmbiz_jpg/TOuqhfLicaAbTIR7TMS7ZrmWJpmxQibAGRicrcJrJAO7VlFzOUknVEKbwibsUUP54NP0D828n7B7ss22M6DI95ZIpw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1",
-      "href": "https://www.nunuyy.cc/dianying/19973.html"
+      "title": "庆余年 第一季",
+      "img": "http://inews.gtimg.com/newsapp_bt/0/11009746250/1000.jpg",
+      "href": "https://www.nunuyy.cc/dianshiju/51386.html",
+      "rate": "8",
+      "note": "46集全/已完结"
     },
     {
       "title": "巾帼枭雄[粤语版]",
       "img": "http://pix1.tvzhe.com/stills/drama/2/464/b/LR0tW7OlM=.jpg",
-      "href": "https://www.nunuyy.cc/dianshiju/75921.html"
+      "href": "https://www.nunuyy.cc/dianshiju/75921.html",
+      "rate": "8.7",
+      "note": "25集全"
     },
     {
-      "title": "脱口秀大会 第四季",
-      "img": "http://n.sinaimg.cn/sinakd20210809ac/61/w500h361/20210809/090e-84ac549a61c4fe9a9001e6b9d6584dce.jpg",
-      "href": "https://www.nunuyy.cc/zongyi/90191.html"
+      "title": "Running Man 런닝맨 (2021)",
+      "img": "https://p2.pstatp.com/origin/feb40001000fff84931f.jpg",
+      "href": "https://www.nunuyy.cc/zongyi/4650.html",
+      "rate": "9.6",
+      "note": "更新至20210718期"
     },
     {
-      "title": "开心超人联盟之机械堡奇遇记",
-      "img": "https://c-ssl.duitang.com/uploads/item/201708/11/20170811225900_P2nEc.thumb.1000_0.jpeg",
-      "href": "https://www.nunuyy.cc/dongman/90137.html"
+      "title": "斗罗大陆 (2018)",
+      "img": "https://p2.pstatp.com/origin/fe6600014054fee7cba4.jpg",
+      "href": "https://www.nunuyy.cc/dongman/4003.html",
+      "rate": "7.6",
+      "note": "更新157集"
     }
   ],
   "drawer": {
@@ -219,7 +227,6 @@
     "魔鬼天使",
     "卿狂",
     "危情",
-    "周末同床",
     "豪放",
     "情欲",
     "奸情",
@@ -234,7 +241,7 @@
     "囡囡"
   ],
   "excluded_filter_films": ["速度与激情"],
-  "buffering_timeout": 20,
+  "buffering_timeout": 15,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
   "search_hint_text_theater": "搜索电影、电视剧、综艺、动漫",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请切换源或者观看其它影片或者稍后重试",
@@ -244,6 +251,7 @@
   "play_source_error_hint_theater": "抱歉，该集播放源错误，请观看其它集或者稍后重试",
   "play_source_error_hint_theater_switch": "抱歉，该集播放源错误，请切换源或者观看其它集或者稍后重试",
   "playing_error_hint_theater": "抱歉，播放源片段出现错误，请重试后拖出此片段观看或者稍后重试",
+  "console_message_error": "Cannot read",
   "intercept_tags": [
     "in-page-push",
     "google",
