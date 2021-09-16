@@ -1,5 +1,5 @@
 {
-  "version": "3.8.2",
+  "version": "3.8.3",
   "update": {
     "version": "3.8",
     "message": ""
@@ -95,7 +95,7 @@
   },
   "filter_films_enable" : 1,
   "filter_films": [
-    "键"
+    "键",
     "金瓶梅",
     "强奸",
     "性",
