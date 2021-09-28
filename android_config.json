@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4",
+  "version": "3.8.5",
   "update": {
     "version": "3.8",
     "message": ""
@@ -240,7 +240,8 @@
     "上位",
     "青楼",
     "囡囡",
-    "不扣钮的女孩"
+    "不扣钮的女孩",
+    "爱奴"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 15,
