@@ -1,5 +1,5 @@
 {
-  "version": "3.8.7",
+  "version": "3.8.8",
   "update": {
     "version": "3.8",
     "message": ""
@@ -243,7 +243,8 @@
     "不扣钮的女孩",
     "爱奴",
     "低俗",
-    "情事"
+    "情事",
+    "青春珊瑚岛"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 15,
