@@ -1,9 +1,18 @@
 {
-  "version": "3.8.9",
+  "version": "4.3.1",
   "update": {
-    "version": "3.8",
+    "version": "4.3",
     "message": ""
   },
+  "live_m3u8s": [
+    ".mu3u8",
+    ".mp4",
+    "play.php"
+  ],
+  "film_m3u8s": [
+    ".m3u8",
+    ".mp4"
+  ],
   "appId": "",
   "review": 0,
   "swipes": [
@@ -66,6 +75,18 @@
       "note": "更新157集"
     }
   ],
+  "recommends": [
+    {
+      "title": "说电影",
+      "uid": "5769702533",
+      "type": 1
+    },
+    {
+      "title": "看电影",
+      "uid": "2259107520",
+      "type": 0
+    }
+  ],
   "drawer": {
     "txt": "若命运不公，就和它斗到底。",
     "author": "《哪吒之魔童降世》",
@@ -93,7 +114,7 @@
     ],
     "button": "我知道了"
   },
-  "filter_films_enable" : 1,
+  "filter_films_enable": 1,
   "filter_films": [
     "键",
     "金瓶梅",
@@ -247,8 +268,10 @@
     "青春珊瑚岛",
     "女集中营"
   ],
-  "excluded_filter_films": ["速度与激情"],
-  "buffering_timeout": 15,
+  "excluded_filter_films": [
+    "速度与激情"
+  ],
+  "buffering_timeout": 10,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
   "search_hint_text_theater": "搜索电影、电视剧、综艺、动漫",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请切换源或者观看其它影片或者稍后重试",
