@@ -1,5 +1,5 @@
 {
-  "version": "4.3.5",
+  "version": "4.3.6",
   "update": {
     "version": "4.3",
     "message": ""
@@ -13,7 +13,7 @@
     ".m3u8",
     ".mp4"
   ],
-  "appId": "",
+  "appId": ""
   "review": 0,
   "swipes": [
     {
